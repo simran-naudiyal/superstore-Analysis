@@ -1,6 +1,7 @@
 # Superstore Retail Sales Performance Dashboard
 
-<img src="https://github.com/user-attachments/assets/74a009ee-7d65-4006-bf15-9bf0b5a8ba18" alt="Dashboard Preview" width="100%">
+<<img width="1283" height="471" alt="Screenshot 2026-06-06 005854" src="https://github.com/user-attachments/assets/28ea7ee1-0ecc-4777-84f9-65c3f8f5bcbf" />
+>
 
 ## 📊 Project Overview
 An interactive and dynamic Excel data analytics solution built to analyze **$9.29 Million** in retail revenue across 2,000 transactions. This project tracks key business metrics including profit drivers, regional breakdowns, category performance, and operational order quantities to assist stakeholders in data-driven decision making.
